@@ -27,7 +27,7 @@ struct ContentView: View {
             }
             
             if show == true {
-                Text("I go to John d obryant in boston. I like to kayak and swim. ")
+                Text("I go to John d obryant in boston. I like to kayak and swim. I also like to swim ")
             }
             
             
